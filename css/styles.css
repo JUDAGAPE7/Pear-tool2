@@ -108,6 +108,11 @@ h3{
 
 
 /* testimonials */
+
+#testimonials{
+  padding: 7% 15%;
+}
+
 .row4{
   text-align: center;
 }
