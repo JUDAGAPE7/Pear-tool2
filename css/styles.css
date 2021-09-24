@@ -111,10 +111,14 @@ h3{
 
 #testimonials{
   padding: 7% 15%;
+  text-align: center;
+  background-color:#ff4c68;
 }
 
-.row4{
-  text-align: center;
+h2{
+  font-family: "Montserrat";
+  font-size: 3rem;
+  line-height: 1.5;
 }
 
 .col-md-6{
