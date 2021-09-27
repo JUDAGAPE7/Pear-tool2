@@ -43,7 +43,7 @@ font-family: "Montserrat-light"
 #dropdownMenuButton {
   background-color: transparent;
   border-color: transparent;
-  color: black;
+  color: white;
   font-size: 1.2rem;
   font-family: "Montserrat-light"
 }
@@ -52,6 +52,10 @@ font-family: "Montserrat-light"
   border-color: transparent;
 }
 
+.nav-item:hover{
+
+
+}
 
 
 /* Titlle */
@@ -61,6 +65,7 @@ h1 {
   font-size: 3.5rem;
   line-height: 1.5;
 padding: 0 0 3rem 0;
+color: white;
 
   }
 
@@ -112,12 +117,13 @@ h3{
 #testimonials{
   padding: 7% 15%;
   text-align: center;
-  background-color:#ff4c68;
+  background-color:#ef8172;
 }
 h2{
   font-family: "Montserrat";
   font-size: 3rem;
   line-height: 1.5;
+  color: white;
 }
 
 
@@ -131,12 +137,24 @@ h2{
 #couple{
   width: 50%;
  border-radius: 100%;
- margin: 20px;
+ margin: 35px;
 
 }
 
-/*container3*/
 
-.container3{
+
+/* Press */
+
+#press{
+  background-color:#ef8172;
+  padding-bottom: 3%;
   text-align: center;
+
+}
+
+.presslogo1 {
+  width: 15%;
+  margin:20px 20px 50px;
+  padding-bottom: 3%;
+
 }
