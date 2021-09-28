@@ -119,11 +119,37 @@ h3{
   text-align: center;
   background-color:#ef8172;
 }
+
+.photos1{
+  width: 50%;
+  border-radius: 100%;
+  margin: 35px;
+  height: 28%;
+  padding-top: 20x;}
+
+.photos2{
+  width: 25%;
+  border-radius: 100%;
+  margin: 27.5px;
+  height: 25%;
+}
+.photos3{
+  width: 25%;
+  border-radius: 100%;
+  margin: 19px;
+  height: 20%;;
+}
+
 h2{
   font-family: "Montserrat";
   font-size: 3rem;
   line-height: 1.5;
   color: white;
+}
+.carousel-item{
+  width: 100%;
+ 
+  
 }
 
 
@@ -134,12 +160,6 @@ h2{
  margin-right: auto;
 }
 
-#couple{
-  width: 50%;
- border-radius: 100%;
- margin: 35px;
-
-}
 
 
 
@@ -151,6 +171,7 @@ h2{
   text-align: center;
 
 }
+
 
 .presslogo1 {
   width: 15%;
