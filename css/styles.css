@@ -130,6 +130,7 @@ h2 {
   line-height: 1.5;
   color: white;
 }
+
 .carousel-item {
   width: 100%;
 }
@@ -178,20 +179,33 @@ h2 {
 
 #cata {
   padding-top: 50px;
+  padding-bottom: 40px;
   text-align: center;
-  background-color: #ef8172;
+  background-color: #ff4c68;
+}
+
+.padbot {
+  color: black;
+  font-size: 60px;
 }
 
 /*Footer*/
 
 #footer {
-  padding: 50px, 50px;
+  padding: 50px 50px;
   text-align: center;
-  background-color: #ef8172;
+  background-color: #ffffff;
   border: 100px;
+  margin-top: 30px;
 }
 
-.bnt-3 {
+.fab1 {
+  position: relative;
+  bottom: 20px;
+}
+
+.fab:hover {
+  color: #ff4c68;
 }
 
 @media (max-width: 1000px) {
