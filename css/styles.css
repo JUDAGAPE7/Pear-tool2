@@ -152,7 +152,7 @@ h2 {
 .presslogo1 {
   width: 15%;
   margin: 20px 20px 50px;
-  padding-bottom: 3%;
+  padding-bottom: 3% 2%;
 }
 
 /*pricing*/
@@ -192,4 +192,13 @@ h2 {
 }
 
 .bnt-3 {
+}
+
+@media (max-width: 1000px) {
+  .pear {
+    transform: rotate(0);
+  }
+  #title {
+    text-align: center;
+  }
 }
