@@ -185,7 +185,7 @@ h2 {
 }
 
 .padbot {
-  color: black;
+  color: rgb(255, 255, 255);
   font-size: 60px;
 }
 
@@ -202,6 +202,7 @@ h2 {
 .fab1 {
   position: relative;
   bottom: 20px;
+  padding-left: 5px;
 }
 
 .fab:hover {
