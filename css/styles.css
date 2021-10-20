@@ -212,6 +212,9 @@ h2 {
 @media (max-width: 1000px) {
   .pear {
     transform: rotate(0);
+    position: relative;
+    right: 50px;
+    top: 20px;
   }
   #title {
     text-align: center;
